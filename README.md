@@ -21,7 +21,7 @@
 - 😉 [visiky's resume](https://visiky.github.io/resume/?user=visiky), an online resume.
 - 
 - 
-https://github.com/hp961203/hp961203/edit/master/hp.jpg
+
 
 
 -----
